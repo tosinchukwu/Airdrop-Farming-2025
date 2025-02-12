@@ -5,3 +5,4 @@ suggest an AI chat bot that can help with coding
 and between Git and Python, which one would you suggest me to learn first 
 Little drops of water makes a might Ocean
 Good things comes to those that patiently wait for it
+Givers never lack
