@@ -1,7 +1,8 @@
-#Question for all
-what can a none Progrmmer/Developer do one Github
+                                  # Question for all!
 
-Meanwhile i need a friend who can put me through some things on coding/Github
+## What can a none Progrmmer/Developer do on Github
+
+### Meanwhile i need a friend who can put me through some things on coding/Github
 
 suggest an AI chat bot that can help with coding 
 
@@ -14,3 +15,5 @@ Good things comes to those that patiently wait for it
 Givers never lack
 
 What a Great Day
+
+There is Progress
