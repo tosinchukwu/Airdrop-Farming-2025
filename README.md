@@ -1,4 +1,4 @@
-                                  # Question for all!
+# Question for all!
 
 ## What can a none Progrmmer/Developer do on Github
 
