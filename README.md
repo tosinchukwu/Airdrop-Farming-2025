@@ -19,3 +19,5 @@ What a Great Day
 There is Progress
 
 New week
+
+Progress in life demans Vision, Consistency and Hardworking.
