@@ -15,7 +15,7 @@ Good things comes to those that patiently wait for it
 Givers never lack
 
 What a Great Day
-# In a grat man's house, there are many vessels
+# In a great man's house, there are many vessels
 
 There is Progress
 
@@ -24,3 +24,5 @@ New week
 Progress in life demans Vision, Consistency and Hardworking.
 
 The Happiest time of a farmer is the time of Harvest
+
+Joy is coming
