@@ -26,3 +26,4 @@ Progress in life demans Vision, Consistency and Hardworking.
 The Happiest time of a farmer is the time of Harvest
 
 Joy is coming
+God can do it again. And again, and again 
