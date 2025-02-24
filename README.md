@@ -20,6 +20,7 @@ What a Great Day
 There is Progress
 
 New week
+In all you do acknowledge God always
 
 Progress in life demans Vision, Consistency and Hardworking.
 
