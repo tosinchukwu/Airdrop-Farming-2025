@@ -39,3 +39,5 @@ Jesus is the only Truth that reveals every Truth
 What a Mighty God we serve
 
 Christ Jesus is my foundation
+
+Glory be to God in the Highest
