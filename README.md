@@ -37,3 +37,5 @@ No body can fight against God the Creator
 Jesus is the only Truth that reveals every Truth
 
 What a Mighty God we serve
+
+Christ Jesus is my foundation
