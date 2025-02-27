@@ -35,3 +35,5 @@ No body can fight against God the Creator
 
 # The Truth 
 Jesus is the only Truth that reveals every Truth
+
+What a Mighty God we serve
