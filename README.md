@@ -41,3 +41,5 @@ What a Mighty God we serve
 Christ Jesus is my foundation
 
 Glory be to God in the Highest
+
+God is not a man is Word will surely come to pass
