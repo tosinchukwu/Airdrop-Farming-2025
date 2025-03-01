@@ -42,4 +42,6 @@ Christ Jesus is my foundation
 
 Glory be to God in the Highest
 
-God is not a man is Word will surely come to pass
+God is not a man His Word will surely come to pass
+
+It takes Grace to win the Race
