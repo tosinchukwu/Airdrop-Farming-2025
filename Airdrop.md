@@ -1,5 +1,5 @@
-## Waitlist
-https://glowlabs.org/waitlist
+### Waitlist
+# https://glowlabs.org/waitlist
 
 https://www.oshi.co/#join
 ```
