@@ -13,7 +13,7 @@ https://t.me/SintAI_bot
 
 https://www.saturnwallet.app/
 
-https:://aagent.ai/
+https://aagent.ai/
 
 https://sentinals.xyz
 
