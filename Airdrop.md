@@ -10,8 +10,6 @@
 |7. |https://www.saturnwallet.app|
 |8. |https://aagent.ai|
 |9. |https://sentinals.xyz|
-|---|--------------|
-
 |10. |https://agroearn.com|
 |11. |https://whitelist.haust.network|
 |12.| https://chainsense.tech|
