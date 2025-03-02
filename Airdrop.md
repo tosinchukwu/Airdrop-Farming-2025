@@ -3,9 +3,9 @@
 https://glowlabs.org/waitlist
 
 https://www.oshi.co/#join
-`
+``
 https://daao.ai
-`
+``
 https://perpflow.xyz/
 
 https://odysseyai.deform.cc/earlyaccess/
