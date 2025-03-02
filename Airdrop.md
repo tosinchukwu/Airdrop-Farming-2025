@@ -1,7 +1,8 @@
 # Waitlist
-
-1. https://glowlabs.org/waitlist
-2. https://www.oshi.co/#join
+|#| Website        |
+|---|--------------|
+|1.| https://glowlabs.org/waitlist|
+|2.| https://www.oshi.co/#join |
 3. https://daao.ai
 4. https://perpflow.xyz/
 5. https://odysseyai.deform.cc/earlyaccess/
