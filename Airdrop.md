@@ -1,23 +1,14 @@
 # Waitlist
 
-https://glowlabs.org/waitlist
-
-https://www.oshi.co/#join
-https://daao.ai
-https://perpflow.xyz/
-
-https://odysseyai.deform.cc/earlyaccess/
-
-https://t.me/SintAI_bot
-
-https://www.saturnwallet.app/
-
-https://aagent.ai/
-
-https://sentinals.xyz
-
-https://agroearn.com
-
-https://whitelist.haust.network
-
-https://chainsense.tech/
+1. https://glowlabs.org/waitlist
+2.https://www.oshi.co/#join
+3. https://daao.ai
+4. https://perpflow.xyz/
+5. https://odysseyai.deform.cc/earlyaccess/
+6. https://t.me/SintAI_bot
+7. https://www.saturnwallet.app/
+8. https://aagent.ai/
+9. https://sentinals.xyz
+10. https://agroearn.com
+11. https://whitelist.haust.network
+12. https://chainsense.tech/
