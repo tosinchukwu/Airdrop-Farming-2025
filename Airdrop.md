@@ -1,5 +1,5 @@
-# <<< Waitlist >>>
-|S/N| Website  |
+![waitlist](https://github.com/user-attachments/assets/cf6817b2-7c48-46d8-a172-b47dbb4b7c81)
+|N/S| Website  |
 |---|--------------|
 |1.| https://glowlabs.org/waitlist|
 |2.| https://www.oshi.co/#join |
