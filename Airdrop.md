@@ -1,6 +1,5 @@
 # Waitlist
-|#| Website        |
-|---|--------------|
+|S/N| Website        |
 |1.| https://glowlabs.org/waitlist|
 |2.| https://www.oshi.co/#join |
 |3. |https://daao.ai|
