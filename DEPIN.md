@@ -1,3 +1,6 @@
+
+![DEPIN](https://github.com/user-attachments/assets/080950a1-a577-48d9-b65e-24b41968358b)
+
 # Here are DEPIN you can venture into
 1. [GRASS](https://app.getgrass.io/register?referralCode=libxsGqVlinmO1R)
 
