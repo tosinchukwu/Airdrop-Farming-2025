@@ -12,5 +12,5 @@
 |9. |https://sentinals.xyz|
 |10. |https://agroearn.com|
 |11. |https://whitelist.haust.network|
-|12.| https://chainsense.tech|
-
+|12.| [Chainsense](https://chainsense.tech)|
+|13.| [Finisterra Labs Waitlist](https://baselight.ai)|
