@@ -11,6 +11,6 @@
 |8. |[AAgent](https://aagent.ai)|
 |9. |[Sentinals](https://sentinals.xyz)|
 |10. |[AgroEarn](https://agroearn.com)|
-|11. |[HAust](https://whitelist.haust.network)|
+|11. |[Haust](https://whitelist.haust.network)|
 |12.| [Chainsense](https://chainsense.tech)|
 |13.| [Finisterra Labs Waitlist](https://baselight.ai)|
