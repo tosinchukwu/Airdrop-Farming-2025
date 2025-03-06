@@ -7,7 +7,7 @@
 |4. |[Perpflow](https://perpflow.xyz)|
 |5. |[Odyssey](https://odysseyai.deform.cc/earlyaccess)|
 |6. |[Sintai](https://t.me/SintAI_bot)|
-|7. |[Saturnw)(https://www.saturnwallet.app)|
+|7. |[Saturnw](https://www.saturnwallet.app)|
 |8. |[AAgent](https://aagent.ai)|
 |9. |[Sentinals](https://sentinals.xyz)|
 |10. |[AgroEarn](https://agroearn.com)|
