@@ -14,3 +14,4 @@
 |11. |[Haust](https://whitelist.haust.network)|
 |12.| [Chainsense](https://chainsense.tech)|
 |13.| [Finisterra Labs Waitlist](https://baselight.ai)|
+|14.| [Seeker Oracle](https://seekeroracle.com)|
