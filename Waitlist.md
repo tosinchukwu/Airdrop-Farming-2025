@@ -1,4 +1,5 @@
 ![waitlist](https://github.com/user-attachments/assets/cf6817b2-7c48-46d8-a172-b47dbb4b7c81)
+
 |N/S| Website  |
 |---|--------------|
 |1.| [Glolabs](https://glowlabs.org/waitlist)|
@@ -15,3 +16,4 @@
 |12.| [Chainsense](https://chainsense.tech)|
 |13.| [Finisterra Labs Waitlist](https://baselight.ai)|
 |14.| [Seeker Oracle](https://seekeroracle.com)|
+|15.| [Chaoslabs](https://chaoslabs.xyz/ai/signup)
