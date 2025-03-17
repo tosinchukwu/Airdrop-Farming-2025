@@ -8,4 +8,6 @@ then `bridge` to `Linea Sepolia` from here ==>
 
 [Linea Bridge](https://bridge.linea.build/)
 
-**Note:** Connect wallet and switch to desired chain/network
+**Note:** You need Linea.eth Name Service in order to claim the faucet.
+
+### Connect wallet and switch to desired chain/network
