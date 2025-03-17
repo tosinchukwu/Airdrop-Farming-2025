@@ -9,7 +9,7 @@
 📌 Pioneering the first Web3 Instagram app layer
 Reward: Potential
 
-* [Link:](https://i.cygnus.finance/)
+### [Link:](https://i.cygnus.finance/)
 
 ➖ Connect with Instagram 
 
@@ -19,6 +19,6 @@ Reward: Potential
 
 ✅ Done!
 
-# GET THE BOT SCRIPT FOR TAPPING.  
+#### [GET THE BOT SCRIPT FOR TAPPING HERE](https://github.com/tosinchukwu/Airdrop-Farming-2025/TapTap/index.js)
 
 
