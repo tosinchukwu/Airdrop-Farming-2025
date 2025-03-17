@@ -11,12 +11,14 @@ Reward: Potential
 
 * [Link:](https://i.cygnus.finance/)
 
-➖ Connect with Instagram
+➖ Connect with Instagram 
 
 ➖ Go to "Profile" > Backup wallet
 
 ➖ Go to "Creator" > Tap-tap
 
 ✅ Done!
+
+# GET THE BOT SCRIPT FOR TAPPING.  
 
 
