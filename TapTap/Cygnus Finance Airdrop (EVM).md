@@ -19,6 +19,6 @@ Reward: Potential
 
 ✅ Done!
 
-#### [GET THE BOT SCRIPT FOR TAPPING HERE](https://github.com/tosinchukwu/Airdrop-Farming-2025/blob/main/TapTap/README.md)
+#### [GET THE BOT SCRIPT FOR TAPPING HERE](https://github.com/tosinchukwu/Airdrop-Farming-2025/blob/main/TapTap/index.js)
 
 
