@@ -7,5 +7,8 @@
 * [Magic Newton](https://magicnewton.com/portal?referral=oz1t0zaz6nhxb0sm)
 * [Eth Blockscout](https://eth.blockscout.com?ref=HCOFWO)
 * [Social Incentiv](https://social.incentiv.net?ref=5560)
+* [Incentive Trade](https://www.incentive.finance/))
+
+* 
 # Concluded Task
 
