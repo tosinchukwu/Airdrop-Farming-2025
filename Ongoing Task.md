@@ -6,6 +6,6 @@
 * [Layer3](https://app.layer3.xyz/quests?ref=tosinchukwu.eth)
 * [Magic Newton](https://magicnewton.com/portal?referral=oz1t0zaz6nhxb0sm)
 * [Eth Blockscout](https://eth.blockscout.com?ref=HCOFWO)
-* [Incentiv](https://social.incentiv.net?ref=5560)
+* [Social Incentiv](https://social.incentiv.net?ref=5560)
 # Concluded Task
 
