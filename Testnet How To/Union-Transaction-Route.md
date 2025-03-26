@@ -13,7 +13,7 @@ You can claim Sepolia eth from these faucet sites:
 
 - https://docs.metamask.io/developer-tools/faucet/
 
-You can also buy Sepolia ETH from: testnetbridge.com/sepolia if you need a lot.
+You can also buy Sepolia ETH from: [Testnet Bridge](https://testnetbridge.com/sepolia) if you need a lot.
 
  Now let’s get started:
 
