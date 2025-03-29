@@ -1,4 +1,4 @@
-# Airdrop Hunting 2025
+# Airdrop Hunting 2025!
 
 Herein contains all the task we will be focusing on for this year.
 
