@@ -17,3 +17,4 @@
 |13.| [Finisterra Labs Waitlist](https://baselight.ai)|
 |14.| [Seeker Oracle](https://seekeroracle.com)|
 |15.| [Chaoslabs](https://chaoslabs.xyz/ai/signup)
+|16.| [Baselight](https://baselight.ai)
