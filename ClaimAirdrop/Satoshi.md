@@ -12,3 +12,5 @@
 ### After that, you can also join to the waitlist campaign:
 
 # [Waitlist](https://www.satoshiprotocol.fun/coming-soon)
+
+checked 
