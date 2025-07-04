@@ -20,7 +20,7 @@
   
 * [MONAD SCORE](http://monadscore.xyz/signup/r/3IgYZqjG)
 
-* [NODEGO](https://app.nodego.ai/r/NODE9C1049F70479)
+* [NODEGO](https://app.nodego.ai/r/NODE9C1049F70479) ended badly
 
 * [TOGGLE]
 
