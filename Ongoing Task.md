@@ -9,7 +9,11 @@
 * [IRYS FAUCET](https://irys.xyz/faucet)
 * [Irys Typing](https://spritetype.irys.xyz)
 * [Supra Mission](https://supra.com/blastoff/courses)
-*
+* [Nativego](https://engage.tbook.com)
+* [Fluent](https://testnet.fluent.xyz/app)
+* [Rayls](https://app.fuul.xyz)
+* [Irys Sprite Checker](https://irys-games-checker.vercel.app/)
+* [Pi2 Wallet](https://wallet.fastset.xyz/)
 *
 
 
