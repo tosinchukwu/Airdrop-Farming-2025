@@ -14,7 +14,9 @@
 * [Rayls](https://app.fuul.xyz)
 * [Irys Sprite Checker](https://irys-games-checker.vercel.app/)
 * [Pi2 Wallet](https://wallet.fastset.xyz/)
-*
+* [Cashmere](https://app.cashmere.exchange/swap)
+
+
 
 
 
