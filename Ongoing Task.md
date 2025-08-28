@@ -17,5 +17,6 @@
 * [IOPN](https://badge.iopn.io)
 * [IRYS FAUCET](https://irys.xyz/faucet)
 * [Irys Typing](https://spritetype.irys.xyz)
+* [Supra Mission](https://supra.com/blastoff/courses)
 
 * 
