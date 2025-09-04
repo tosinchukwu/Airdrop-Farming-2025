@@ -4,6 +4,7 @@
 * [Haha Wallet for Monad - Earn Karma](https://join.haha.me/TOSIN-3HXP6U)
 * [Citrea](https://bapps.citrea.xyz)
 * [Pi2](https://portal.pi2.network)
+* [Pharos](https://testnet.pharosnetwork.xyz/)
 * [Zkverify](https://points.zkverify.io)
 * [IOPN](https://badge.iopn.io)
 * [IRYS FAUCET](https://irys.xyz/faucet)
