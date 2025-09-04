@@ -1,6 +1,7 @@
 # Ongoing Task
 ## Daily Task
 * [Alphamind- Earn Karma](https://app.alphamind.co/build_karma?invite=4WIih2_b)
+* [RAYLS](* https://app.fuul.xyz/landing/rayls-loyalty-rewards?referrer=mouseng)
 * [Haha Wallet for Monad - Earn Karma](https://join.haha.me/TOSIN-3HXP6U)
 * [Citrea](https://bapps.citrea.xyz)
 * [Pi2](https://portal.pi2.network)
