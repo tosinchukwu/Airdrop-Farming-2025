@@ -45,4 +45,4 @@ Transfer link: https://app.union.build/transfer?source=17000&destination=elgafar
 
 Transfer link: https://app.union.build/transfer?source=17000&destination=union-testnet-9&asset=0x55081d42b7381033ed1408608b510649bbe7464d&amount=0.01
 
-Note: You can only transfer assets you previously transferred into Holesky out to other chains, transfer into Holesky is still disabled.
+Note: You can only transfer assets you previously transferred into Holesky out to other chains, transfer into Holesky is still disablethe peojext dodnt rnf well 
